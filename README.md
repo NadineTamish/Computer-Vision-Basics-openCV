@@ -1,7 +1,7 @@
-# 📘 Intro to Computer Vision – Presentation README  
+# Intro to Computer Vision – Presentation 
 
 ##  Goal of Presentation  
-Introduce **Computer Vision (CV)** concepts to **beginners with no AI background** using simple explanations, real-world examples, visuals, and hands-on OpenCV demos.  
+Introduce **Computer Vision (CV)** concepts to **beginners with no AI background** 
 
 ---
 
